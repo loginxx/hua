@@ -1,3 +1,3 @@
 <?php
 
-echo exec ('woami');
+echo exec ('git pull');
