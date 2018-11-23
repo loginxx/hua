@@ -1,2 +1,2 @@
 <?php
-echo exec ('woami')
+echo exec ('whoami');
